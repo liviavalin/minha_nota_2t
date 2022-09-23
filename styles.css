@@ -18,4 +18,19 @@ body{
     display: flex;
     list-style-type: none;
     justify-content: space-around;
+    
+}
+.cabecalho_lista-item{
+    margin: 0 12px;
+    
+}
+.cabecalho__lista-item{
+    text-decoration: none;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
 }
