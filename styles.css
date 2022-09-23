@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-color: yellow;
+}
+
+.cabecxalho-titulo--dois {
+    font-weight: 300;
+}
+.cabecalho {
+    background: blue;
+}
+
+.cabecalho_lista {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
